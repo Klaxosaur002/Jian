@@ -2,9 +2,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Klaxosaur002.Jian)
 
-![GitHub stars](https://img.shields.io/github/stars/Klaxosaur002/Jian)
+![GitHub stars](https://img.shields.io/github/stars/Klaxosaur002.Jian)
 
-![GitHub forks](https://img.shields.io/github/forks/Klaxosaur002/Jian)
+![GitHub forks](https://img.shields.io/github/forks/Klaxosaur002.Jian)
 
 ![Status](https://img.shields.io/badge/status-experimental-red)
 
